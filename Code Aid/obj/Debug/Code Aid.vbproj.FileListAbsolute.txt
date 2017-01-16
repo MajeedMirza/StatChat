@@ -1,0 +1,38 @@
+C:\Users\mirzmaj\documents\visual studio 2013\Projects\Code Aid\Code Aid\bin\Debug\Code Aid.exe
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\bin\Debug\Code Aid.exe.config
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code_Aid.Cards.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code_Aid.CodeAid.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code_Aid.Form2.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code_Aid.Form3.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code_Aid.G.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code_Aid.Resources.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code_Aid.TTO.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code Aid.vbproj.GenerateResource.Cache
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code Aid.exe
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code Aid.xml
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code Aid.pdb
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\bin\Debug\Code Aid.pdb
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\bin\Debug\Code Aid.xml
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code_Aid.bamama.resources
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code_Aid.Form1.resources
+C:\Users\mirzmaj\documents\visual studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code Aid.vbprojResolveAssemblyReference.cache
+C:\Users\mirzmaj\Documents\Visual Studio 2013\Projects\Code Aid\Code Aid\obj\Debug\Code_Aid.ctf.resources
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\bin\Debug\Stat Chat.exe.config
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\Code Aid.vbprojResolveAssemblyReference.cache
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\StatChat.bamama.resources
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\StatChat.Cards.resources
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\StatChat.ctf.resources
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\StatChat.CodeAid.resources
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\StatChat.Form2.resources
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\StatChat.Form3.resources
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\StatChat.G.resources
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\StatChat.Resources.resources
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\StatChat.TTO.resources
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\StatChat.Form1.resources
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\Code Aid.vbproj.GenerateResource.Cache
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\Stat Chat.xml
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\bin\Debug\Stat Chat.exe
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\bin\Debug\Stat Chat.pdb
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\bin\Debug\Stat Chat.xml
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\Stat Chat.exe
+C:\Users\Majeed\Desktop\Stats Projects\Code Aid\Code Aid\obj\Debug\Stat Chat.pdb
