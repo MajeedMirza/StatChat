@@ -1,9 +1,10 @@
 # StatChat
 Chat over an SQL database
 
-For main code see: StatChat/Code Aid/Form2.vb
+For main code see: ```StatChat/Code Aid/Form2.vb```
 
-TODO:
--Rename files and reorganize code
+## Installation
+Clone this repository then lanch the program by running the exe located at 
+```StatChat/Code Aid/bin/Debug/Stat Chat.exe```
 
--Add Interface for changing the SQL Database
+
